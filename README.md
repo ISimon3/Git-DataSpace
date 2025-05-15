@@ -12,9 +12,12 @@
 ###  6. 个性化与易用性
 ---
 ## ✨ 使用说明
-### 进入 GitHub Token 页面 打开链接：https://github.com/settings/personal-access-tokens → 点击 “Fine-grained tokens” → 然后点击 “Generate new token”
-### 填写基本信息 Token 名称（例如：PasswordSyncToken）,过期时间（建议设置一个月或三个月，后续可续）
-### 选择要访问的仓库,仅选一个私有仓库（建议只选一个）,点击 “Repository access” 选择你想要用来存储加密文件的仓库
+### 进入 GitHub Token 页面 
+打开链接：https://github.com/settings/personal-access-tokens → 点击 “Fine-grained tokens” → 然后点击 “Generate new token”
+### 填写基本信息 Token 名称（例如：PasswordSyncToken）
+过期时间（建议设置一个月或三个月，后续可续）
+### 选择要访问的仓库
+仅选一个私有仓库（建议只选一个）,点击 “Repository access” 选择你想要用来存储加密文件的仓库
 ### 设置仓库权限（最关键部分）
 在 “Repository permissions” 中，找到：
 Contents → 设置为 Read and write
