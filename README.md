@@ -1,6 +1,7 @@
 # Git 数据空间：私有云密码管家
 
-![image]（https://github.com/ISimon3/Git-DataSpace/blob/main/example1.0.6.jpg）
+
+![image](https://github.com/ISimon3/Git-DataSpace/blob/main/example1.0.6.jpg)
 ---
 ## ✨ 核心功能与特色
 ###  1. 数据安全与自主掌控
