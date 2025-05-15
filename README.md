@@ -8,7 +8,7 @@
 ###  5. 便捷的云同步机制
 ###  6. 个性化与易用性
 ---
-## 使用说明
+## ✨ 使用说明
 ### 创建 GitHub 私有仓库：在 GitHub 上创建一个私有仓库
 ### 生成 Personal Access Token（PAT）
 ### 登录 GitHub → settings → Developer settings → Personal access tokens → Tokens (classic) → Generate new token → Generate new token
