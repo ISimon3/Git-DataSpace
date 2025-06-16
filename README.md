@@ -2,6 +2,8 @@
 
 
 ![image](https://github.com/ISimon3/Git-DataSpace/blob/main/Home%20page.png)
+![image](https://github.com/ISimon3/Git-DataSpace/blob/main/password%20space.png)
+![image](https://github.com/ISimon3/Git-DataSpace/blob/main/File%20space.png)
 ---
 ## ✨ 核心功能与特色
 ###  1. 数据安全与自主掌控
